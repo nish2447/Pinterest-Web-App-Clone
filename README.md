@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a clone of Pinterest Web app
+deployed using firebase
+-[https://bt19cse136-pinterest-ui.web.app/#/]
 
 A few resources to get you started if this is your first Flutter project:
 
